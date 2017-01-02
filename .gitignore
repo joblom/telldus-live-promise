@@ -21,3 +21,10 @@ test2.js
 debug/
 reports/
 lab/
+
+.vs/config/applicationhost.config
+.vs/telldus-live-promise/v14/.suo
+obj/Release/DesignTimeResolveAssemblyReferencesInput.cache
+telldus-live-promise.csproj
+telldus-live-promise.csproj.user
+telldus-live-promise.sln
